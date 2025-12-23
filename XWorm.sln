@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{75B9CB9A-F0B4-4E60-BCC6-A0B6950D04CD}") = "XWorm", "XWorm\XWorm.csproj", "{A7CE7C72-F0BC-482E-BC9F-A676F71C50E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CE7C72-F0BC-482E-BC9F-A676F71C50E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CE7C72-F0BC-482E-BC9F-A676F71C50E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CE7C72-F0BC-482E-BC9F-A676F71C50E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CE7C72-F0BC-482E-BC9F-A676F71C50E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88F48C92-C477-4619-9A05-F6F4F785B60F}
+	EndGlobalSection
+EndGlobal
